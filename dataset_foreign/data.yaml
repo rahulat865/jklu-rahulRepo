@@ -1,0 +1,24 @@
+path: C:\Users\rahul\OneDrive\Desktop\jklu-hackathon1-accuracy_main\dataset_foreign
+train: images/train
+val: images/val
+nc: 19
+names:
+- bottle
+- cup
+- fork
+- knife
+- bowl
+- banana
+- apple
+- sandwich
+- orange
+- broccoli
+- carrot
+- hot_dog
+- pizza
+- donut
+- cake
+- chair
+- couch
+- potted_plant
+- teddy_bear
